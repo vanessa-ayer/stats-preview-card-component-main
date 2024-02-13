@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/stats-preview-card-component-mQIzOm5WTr
+- Live Site URL: https://vanessa-ayer.github.io/stats-preview-card-component-main/
 
 ## My process
 
